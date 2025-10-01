@@ -1,0 +1,9 @@
+x
+s t,4 f,6
+f d,8 s,2 y,3
+t x,9 p,5
+y z,1 p,4
+d y,10
+x s,1 t,2
+z p,4 s,3
+p z,6 x,2 d,3

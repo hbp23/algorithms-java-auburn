@@ -1,0 +1,7 @@
+s: s 
+f: s f 
+t: t 
+y: s f y 
+d: t p d 
+z: s f y z 
+p: t p 
